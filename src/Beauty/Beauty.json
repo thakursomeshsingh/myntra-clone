@@ -1,0 +1,54 @@
+{
+    "productsBeauty": [
+      {
+        "id": 1,
+        "brand": "Nivea",
+        "title": "Body-Lotion",
+        "thumbnail":"https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12531376/2020/9/29/baad07d3-5e4e-4e67-b23f-9f8f509712091601369733326-Nivea-Unisex-Kids-Body-Lotion-531601369732957-1.jpg",
+        "price": 247,
+        "originalPrice": 555,
+        "discountPercentage": 55,
+        "sizes": ["R"]
+      },
+      {
+        "id": 2,
+        "brand": "Garnier",
+        "title": "Vitamin-C-Serum-Cream",
+        "thumbnail":"https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13838818/2023/7/11/449885ab-b317-4ce0-99e4-9425d5d237061689057095611-Garnier-Bright-Complete-Vitamin-C-Serum-Cream-45-g-376168905-1.jpg",
+        "price": 162,
+        "originalPrice": 219,
+        "discountPercentage": 26,
+        "sizes": ["R"]
+      },
+      {
+        "id": 3,
+        "brand": "LOreal",
+        "title": "Hair-Color",
+        "thumbnail":"https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/135698/2023/11/16/e3c789d4-38e8-441f-a8c5-88e9664b758a1700131990390-LOreal-Paris-Excellence-Creme-Triple-Care-Hair-Color---Natur-1.jpg",
+        "price": 629,
+        "originalPrice": 699,
+        "discountPercentage": 10,
+        "sizes": ["R"]
+      },
+      {
+        "id": 4,
+        "brand": "Lakme",
+        "title": "Makeup-Primer",
+        "thumbnail":"https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13203912/2024/2/26/84ab8cd9-e995-41ce-bede-bc2b7ada53691708946921949-Lakme-Absolute-Blur-Perfect-Makeup-Primer---Mini-15517089469-1.jpg",
+        "price": 149,
+        "originalPrice": 299,
+        "discountPercentage": 50,
+        "sizes": ["R"]
+      },
+      {
+        "id": 5,
+        "brand": "Maybelline",
+        "title": "Poreless-SPF",
+        "thumbnail":"https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13609226/2024/3/21/09bc0916-98a3-4c13-9e09-ed87cf7259251711019295983-Maybelline-New-York-Fit-Me-Matte--Poreless-SPF-32-Compact-Po-1.jpg",
+        "price": 215,
+        "originalPrice": 269,
+        "discountPercentage": 20,
+        "sizes": ["R"]
+      }
+    ]
+}

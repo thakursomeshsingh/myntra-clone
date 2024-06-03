@@ -1,0 +1,28 @@
+.W-first>img {
+    width: 300px;
+    height: 318px; /* This will maintain the aspect ratio */
+    margin-top: 10px;
+    margin-left: 2px;
+    
+  }
+  
+.W-container{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    overflow: hidden;
+    /* height: 100px; */
+    
+  }
+  .product{
+    margin-bottom: 2px;
+  }
+
+  .product-productMetaInfo{
+    width: 300px;
+    height: auto;
+  }
+
+  .adidas-description{
+    width: 200px;
+  }

@@ -1,0 +1,56 @@
+{
+    "productsWoman": [
+      {
+        "id": 1,
+        "brand": "HRX by Hrithik Roshan",
+        "title": "Women Memory Foam Running Shoes",
+        "thumbnail":"https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29189260/2024/5/21/51feae60-5cf3-4d30-b7d2-7d4c07a86f051716288066838-HRX-by-Hrithik-Roshan-Women-Round-Toe-Lightweight-Sneakers-7-1.jpg",
+        "price": 929,
+        "originalPrice": 2999,
+        "discountPercentage": 69,
+        "sizes": ["UK5","UK6", "UK7", "UK8"]
+      },
+      {
+        "id": 2,
+        "brand": "NIKE",
+        "title": "NIKE TIGHTS",
+        "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22092652/2023/12/18/baf75ca4-d86e-44cf-bbdf-767161a739141702897559735-Nike-Women-Luxe-78-High-Rise-Dri-FIT-Yoga-Tights-10170289755-1.jpg",
+        "price": 1500,
+        "originalPrice": 3000,
+        "discountPercentage": 50,
+        "sizes": ["S", "M", "L"]
+      },
+      {
+        "id": 3,
+        "brand": "Libas",
+        "title": "Floral Printed Regular Pure Cotton Kurta",
+        "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27945140/2024/2/29/ef4f5984-a1eb-48ef-ad5f-7f9af6338adb1709199706579Peachfloralprintedstraightcottonkurtawithprintedpalazzoandfl1.jpg",
+        "price": 3500,
+        "originalPrice": 3000,
+        "discountPercentage": 50,
+        "sizes": ["S", "M", "L"]
+      },
+      {
+        "id": 4,
+        "brand": "Tommy-Hilfiger",
+        "title": "Tommy-Hilfiger-Women-Handbags",
+        "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17327906/2022/3/14/4521f110-b7a7-42a8-969b-8c48b64f417d1647239274948-Tommy-Hilfiger-Women-Handbags-841647239274383-1.jpg",
+        "price": 3000,
+        "originalPrice": 5000,
+        "discountPercentage": 40,
+        "sizes": ["M", "L", "XL"]
+      },
+      {
+        "id": 5,
+        "brand": "Titan",
+        "title": "Titan Watch Women",
+        "thumbnail": 	"https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11875576/2022/4/21/c7d99ff3-50bd-4b57-868c-11141a1f0ea51650542635425-Titan-Women-White-Analogue-Watch-2639SL05-9821650542634789-1.jpg",
+        "price": 1000,
+        "originalPrice": 1800,
+        "discountPercentage": 45,
+        "sizes": ["R"]
+      }
+
+    ]
+  }
+  

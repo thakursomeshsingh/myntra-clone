@@ -1,0 +1,56 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "brand": "HRX by Hrithik Roshan",
+        "title": "Men Memory Foam Running Shoes",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0gDnlATlqXtS3wGlRn72E0Rj6KSwjQe1NFw&s",
+        "price": 929,
+        "originalPrice": 2999,
+        "discountPercentage": 69,
+        "sizes": ["UK6", "UK7", "UK8"]
+      },
+      {
+        "id": 2,
+        "brand": "ADIDAS",
+        "title": "Unisex Heather Low Tennis Shoes",
+        "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26518204/2024/2/1/b88978ca-79e4-42c9-9b80-5870563b3a421706781057400-ADIDAS-Unisex-Woven-Design-Round-Toe-Heather-Low-Tennis-Shoe-1.jpg",
+        "price": 1500,
+        "originalPrice": 3000,
+        "discountPercentage": 50,
+        "sizes": ["UK7", "UK8", "UK9"]
+      },
+      {
+        "id": 3,
+        "brand": "ADIDAS",
+        "title": "Unisex Heather Low Tennis Shoes",
+        "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/26518204/2024/2/1/b88978ca-79e4-42c9-9b80-5870563b3a421706781057400-ADIDAS-Unisex-Woven-Design-Round-Toe-Heather-Low-Tennis-Shoe-1.jpg",
+        "price": 3500,
+        "originalPrice": 3000,
+        "discountPercentage": 50,
+        "sizes": ["UK7", "UK8", "UK9"]
+      },
+      {
+        "id": 4,
+        "brand": "Arrow",
+        "title": "Brown jacket",
+        "thumbnail": "https://www.nextdirect.com/nxtcms/resource/blob/5821518/d114a8023263017f86b11c206949508e/shackets-data.jpg",
+        "price": 3000,
+        "originalPrice": 5000,
+        "discountPercentage": 40,
+        "sizes": ["M", "L", "XL"]
+      },
+      {
+        "id": 5,
+        "brand": "Allen Solly",
+        "title": "Shirt",
+        "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/29078426/2024/5/14/701c27f1-441b-4285-984e-a3a91ad5bae41715667186610-Allen-Solly-Men-Shirts-2061715667186296-1.jpg",
+        "price": 1100,
+        "originalPrice": 1800,
+        "discountPercentage": 35,
+        "sizes": ["S","M", "L", "XL"]
+      }
+
+    ]
+  }
+  
